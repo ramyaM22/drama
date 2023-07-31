@@ -1,0 +1,45 @@
+.bgimg{
+    background-image: url('https://releasedate.me/wp-content/uploads/2021/02/lucifer-poster.jpg');
+    background-size: cover;
+    height:150vh;
+    width:100vw;
+}
+
+.header1{
+    padding-top: 200px;
+    padding-left: 15px;
+}
+
+.header3{
+    padding-top: 30px;
+    padding-left:30px;
+    font-size:18px;
+    font-weight:lighter;
+    color:grey;
+}
+.header4{
+    color:white;
+    padding-left: 30px;
+}
+span{
+    color:white;
+}
+.header5{
+    padding-left: 30px;
+}
+.paycardimg1{
+    padding-left: 15px;
+}
+.card1{
+padding-top:15px ;
+padding-left:15px ;
+}
+.card2{
+    padding-top:15px ;
+    padding-left:15px ;
+
+}
+.card3{
+    text-align: right;
+    padding-right: 30px;
+}
